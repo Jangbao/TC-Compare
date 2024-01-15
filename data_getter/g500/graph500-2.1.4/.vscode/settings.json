@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "graph500.h": "c",
+        "graph_generator.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "errno.h": "c",
+        "getopt.h": "c",
+        "xalloc.h": "c",
+        "timer.h": "c",
+        "rmat.h": "c",
+        "assert.h": "c",
+        "fcntl.h": "c",
+        "alloca.h": "c",
+        "math.h": "c",
+        "stdio.h": "c",
+        "options.h": "c",
+        "splittable_mrg.h": "c",
+        "make_graph.h": "c",
+        "compat.h": "c",
+        "verify.h": "c",
+        "prng.h": "c"
+    }
+}
